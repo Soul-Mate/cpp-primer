@@ -1,4 +1,4 @@
-- [x] [3.25](exercises/3_25.cc)
+- [x] [exercise 3.25](../exercises/3_25.cc)
 
 - [x] exercise 3.26
 
