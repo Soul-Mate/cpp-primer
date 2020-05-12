@@ -1,0 +1,17 @@
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/CMakeFiles/edit_cache.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_26.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_20.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_19.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/edit_cache.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_17.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_23.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_15.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_14.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/rebuild_cache.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_4.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_6.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_2.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_5.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_7.dir
+/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_10.dir

@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_26.dir/3_26.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_26.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_26.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_20.dir/3_20.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_19.dir/3_19.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_17.dir/3_17.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_23.dir/3_23.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_15.dir/3_15.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_14.dir/3_14.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_4.dir/3_4.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_6.dir/3_6.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_2.dir/3_2.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_5.dir/3_5.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_7.dir/3_7.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc"
+},
+{
+  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_10.dir/3_10.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc",
+  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc"
+}
+]
