@@ -111,19 +111,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 3_26
-
-# Build rule for target.
-3_26: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 3_26
-.PHONY : 3_26
-
-# fast build rule for target.
-3_26/fast:
-	$(MAKE) -f exercises/CMakeFiles/3_26.dir/build.make exercises/CMakeFiles/3_26.dir/build
-.PHONY : 3_26/fast
-
-#=============================================================================
 # Target rules for targets named 3_20
 
 # Build rule for target.
@@ -187,6 +174,19 @@ depend:
 3_15/fast:
 	$(MAKE) -f exercises/CMakeFiles/3_15.dir/build.make exercises/CMakeFiles/3_15.dir/build
 .PHONY : 3_15/fast
+
+#=============================================================================
+# Target rules for targets named 3_25
+
+# Build rule for target.
+3_25: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 3_25
+.PHONY : 3_25
+
+# fast build rule for target.
+3_25/fast:
+	$(MAKE) -f exercises/CMakeFiles/3_25.dir/build.make exercises/CMakeFiles/3_25.dir/build
+.PHONY : 3_25/fast
 
 #=============================================================================
 # Target rules for targets named 3_14
@@ -287,12 +287,12 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... 3_26"
 	@echo "... 3_20"
 	@echo "... 3_19"
 	@echo "... 3_17"
 	@echo "... 3_23"
 	@echo "... 3_15"
+	@echo "... 3_25"
 	@echo "... 3_14"
 	@echo "... 3_4"
 	@echo "... 3_6"

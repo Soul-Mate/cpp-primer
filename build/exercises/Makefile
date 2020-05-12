@@ -111,21 +111,6 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-exercises/CMakeFiles/3_26.dir/rule:
-	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f CMakeFiles/Makefile2 exercises/CMakeFiles/3_26.dir/rule
-.PHONY : exercises/CMakeFiles/3_26.dir/rule
-
-# Convenience name for target.
-3_26: exercises/CMakeFiles/3_26.dir/rule
-
-.PHONY : 3_26
-
-# fast build rule for target.
-3_26/fast:
-	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_26.dir/build.make exercises/CMakeFiles/3_26.dir/build
-.PHONY : 3_26/fast
-
-# Convenience name for target.
 exercises/CMakeFiles/3_20.dir/rule:
 	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f CMakeFiles/Makefile2 exercises/CMakeFiles/3_20.dir/rule
 .PHONY : exercises/CMakeFiles/3_20.dir/rule
@@ -199,6 +184,21 @@ exercises/CMakeFiles/3_15.dir/rule:
 3_15/fast:
 	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_15.dir/build.make exercises/CMakeFiles/3_15.dir/build
 .PHONY : 3_15/fast
+
+# Convenience name for target.
+exercises/CMakeFiles/3_25.dir/rule:
+	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f CMakeFiles/Makefile2 exercises/CMakeFiles/3_25.dir/rule
+.PHONY : exercises/CMakeFiles/3_25.dir/rule
+
+# Convenience name for target.
+3_25: exercises/CMakeFiles/3_25.dir/rule
+
+.PHONY : 3_25
+
+# fast build rule for target.
+3_25/fast:
+	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_25.dir/build.make exercises/CMakeFiles/3_25.dir/build
+.PHONY : 3_25/fast
 
 # Convenience name for target.
 exercises/CMakeFiles/3_14.dir/rule:
@@ -521,32 +521,32 @@ exercises/CMakeFiles/3_10.dir/rule:
 	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_23.dir/build.make exercises/CMakeFiles/3_23.dir/3_23.cc.s
 .PHONY : 3_23.cc.s
 
-3_26.o: 3_26.cc.o
+3_25.o: 3_25.cc.o
 
-.PHONY : 3_26.o
+.PHONY : 3_25.o
 
 # target to build an object file
-3_26.cc.o:
-	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_26.dir/build.make exercises/CMakeFiles/3_26.dir/3_26.cc.o
-.PHONY : 3_26.cc.o
+3_25.cc.o:
+	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_25.dir/build.make exercises/CMakeFiles/3_25.dir/3_25.cc.o
+.PHONY : 3_25.cc.o
 
-3_26.i: 3_26.cc.i
+3_25.i: 3_25.cc.i
 
-.PHONY : 3_26.i
+.PHONY : 3_25.i
 
 # target to preprocess a source file
-3_26.cc.i:
-	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_26.dir/build.make exercises/CMakeFiles/3_26.dir/3_26.cc.i
-.PHONY : 3_26.cc.i
+3_25.cc.i:
+	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_25.dir/build.make exercises/CMakeFiles/3_25.dir/3_25.cc.i
+.PHONY : 3_25.cc.i
 
-3_26.s: 3_26.cc.s
+3_25.s: 3_25.cc.s
 
-.PHONY : 3_26.s
+.PHONY : 3_25.s
 
 # target to generate assembly for a file
-3_26.cc.s:
-	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_26.dir/build.make exercises/CMakeFiles/3_26.dir/3_26.cc.s
-.PHONY : 3_26.cc.s
+3_25.cc.s:
+	cd /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build && $(MAKE) -f exercises/CMakeFiles/3_25.dir/build.make exercises/CMakeFiles/3_25.dir/3_25.cc.s
+.PHONY : 3_25.cc.s
 
 3_4.o: 3_4.cc.o
 
@@ -662,13 +662,13 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... 3_26"
 	@echo "... 3_20"
 	@echo "... 3_19"
 	@echo "... edit_cache"
 	@echo "... 3_17"
 	@echo "... 3_23"
 	@echo "... 3_15"
+	@echo "... 3_25"
 	@echo "... 3_14"
 	@echo "... rebuild_cache"
 	@echo "... 3_4"
@@ -701,9 +701,9 @@ help:
 	@echo "... 3_23.o"
 	@echo "... 3_23.i"
 	@echo "... 3_23.s"
-	@echo "... 3_26.o"
-	@echo "... 3_26.i"
-	@echo "... 3_26.s"
+	@echo "... 3_25.o"
+	@echo "... 3_25.i"
+	@echo "... 3_25.s"
 	@echo "... 3_4.o"
 	@echo "... 3_4.i"
 	@echo "... 3_4.s"

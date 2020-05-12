@@ -1,3 +1,4 @@
-# Chapter 3. Strings, Vectors and Arrays
+### Chapter 3. Strings, Vectors and Arrays
 
-[练习题](doc/ch3.md)
+[exercises](doc/ch03_exercises.md)
+[notes](doc/ch03_notes.md)

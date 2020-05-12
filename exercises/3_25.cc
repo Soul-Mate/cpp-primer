@@ -4,6 +4,11 @@
 
 using namespace std;
 
+int txt_size()
+{
+    return 10;
+}
+
 int main()
 {
     int grade;
@@ -20,6 +25,8 @@ int main()
     {
         cout << *it << " ";
     }
+
+    int ia[txt_size()];
 
     cout << endl;
 }
