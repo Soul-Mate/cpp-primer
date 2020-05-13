@@ -1,67 +1,107 @@
 [
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_20.dir/3_20.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_41.dir/3_41.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_41.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_41.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_19.dir/3_19.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_36.dir/3_36.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_36.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_36.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_17.dir/3_17.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_35.dir/3_35.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_35.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_35.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_23.dir/3_23.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_31.dir/3_31.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_31.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_31.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_15.dir/3_15.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_19.dir/3_19.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_19.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_25.dir/3_25.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_25.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_25.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_20.dir/3_20.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_20.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_14.dir/3_14.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_42.dir/3_42.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_42.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_42.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_4.dir/3_4.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_25.dir/3_25.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_25.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_25.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_6.dir/3_6.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_7.dir/3_7.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_2.dir/3_2.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_6.dir/3_6.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_6.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_5.dir/3_5.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_39.dir/3_39.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_39.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_39.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_7.dir/3_7.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_7.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_23.dir/3_23.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_23.cc"
 },
 {
-  "directory": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises",
-  "command": "/usr/bin/g++-7  -DDEBUG   -std=c++11 -g   -o CMakeFiles/3_10.dir/3_10.cc.o -c /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc",
-  "file": "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc"
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_14.dir/3_14.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_14.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_5.dir/3_5.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_5.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_40.dir/3_40.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_40.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_40.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_15.dir/3_15.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_15.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_10.dir/3_10.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_4.dir/3_4.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_4.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_17.dir/3_17.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_17.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_32.dir/3_32.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_32.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_32.cc"
+},
+{
+  "directory": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises",
+  "command": "/usr/bin/clang++  -DDEBUG   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/3_2.dir/3_2.cc.o -c /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc",
+  "file": "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_2.cc"
 }
 ]

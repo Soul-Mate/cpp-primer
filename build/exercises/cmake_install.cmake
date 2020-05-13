@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises
+# Install script for directory: /Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -25,11 +25,6 @@ if(NOT CMAKE_INSTALL_COMPONENT)
   else()
     set(CMAKE_INSTALL_COMPONENT)
   endif()
-endif()
-
-# Install shared libraries without execute permission?
-if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
 # Is this installation the result of a crosscompile?

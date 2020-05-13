@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc" "/mnt/d/Workspace/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_10.dir/3_10.cc.o"
+  "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/exercises/3_10.cc" "/Users/xyc/workspace/code/github.com/Soul-Mate/cpp-primer/build/exercises/CMakeFiles/3_10.dir/3_10.cc.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
